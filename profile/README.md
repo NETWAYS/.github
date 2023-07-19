@@ -12,7 +12,7 @@ As active contributors to the open source community, we prioritize collaboration
 
 Open source is at the heart of our daily work. As active contributors to the open source community, we highly appreciate community involvement in our projects! Our aim is to showcase our open source work and make our results, or even partial results, readily accessible to everyone. To achieve this, we utilize GitHub as a platform to push code, openly document our development process, and share valuable resources such as Ansible and Puppet Code, Prometheus Exporters, Icinga Check Plugins, and Code from our Trainings. We want to ensure that the tools we develop continue to address your needs and solve your problems effectively. With this in mind, we invite you to submit “pull requests” to develop, modify and expand our projects. We welcome your suggestions, experiences, ideas and appreciate your active involvement!
 
-Please note that all participation is governed by our [code of conduct]().
+Please note that all participation is governed by our [code of conduct](https://www.netways.de/en/code-of-conduct/).
 
 ## GET TO KNOW THE PEOPLE BEHIND THE SCENES!
 
