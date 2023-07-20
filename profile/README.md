@@ -21,13 +21,3 @@ At NETWAYS we believe it is essential for you to know the people behind the scen
 Interested in joining our team? Check out our job listings and become a part of NETWAYS' unique work culture. This way to [Open Jobs](https://www.netways.de/en/netways/jobs/).
 
 Do you want to know everything that moves us? Technology, hardware, life at NETWAYS, events, training and much more, read our [Blog](https://www.netways.de/blog/)!
-
-* https://www.netways.de/
-* info@netways.de
-* [Twitter](https://twitter.com/netways)
-* [LinkedIn](https://de.linkedin.com/company/netways-gmbh)
-* [Facebook](https://facebook.com/netways)
-* [Instagram](https://www.instagram.com/netways_gmbh/)
-* [Youtube](https://www.youtube.com/netways)
-
-We are an IT company specializing in providing solutions and services in the field of information technology infrastructure.
