@@ -8,7 +8,7 @@ NETWAYS has been simplifying open source infrastructure since 1995. Our comprehe
 
 As active contributors to the open source community, we prioritize collaboration and continuous improvement.
 
-## LET’S EXCHANGE YOUR IDEAS WITH US!
+## LET'S EXCHANGE IDEAS!
 
 Open source is at the heart of our daily work. As active contributors to the open source community, we highly appreciate community involvement in our projects! Our aim is to showcase our open source work and make our results, or even partial results, readily accessible to everyone. To achieve this, we utilize GitHub as a platform to push code, openly document our development process, and share valuable resources such as Ansible and Puppet Code, Prometheus Exporters, Icinga Check Plugins, and Code from our Trainings. We want to ensure that the tools we develop continue to address your needs and solve your problems effectively. With this in mind, we invite you to submit “pull requests” to develop, modify and expand our projects. We welcome your suggestions, experiences, ideas and appreciate your active involvement!
 
