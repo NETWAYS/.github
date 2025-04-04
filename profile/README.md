@@ -1,4 +1,4 @@
-![NETWAYS Banner](https://raw.githubusercontent.com/NETWAYS/.github/main/profile/netways_banner_wide.png)
+![NETWAYS Banner](https://raw.githubusercontent.com/NETWAYS/.github/refs/heads/main/profile/netways_banner_wide.png)
 
 # Welcome to the NETWAYS Open Source Community!
 
