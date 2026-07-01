@@ -4,7 +4,9 @@
 
 ## Who we are & what we do
 
-NETWAYS has been simplifying open source infrastructure since 1995. Our comprehensive range of products and solutions are tailored to meet the needs of all sizes businesses and industries, covering setup, monitoring, automation, management, and hosting of open-source IT infrastructure. We organize events such as [OSMC](https://osmc.de) and [stackconf](https://stackconf.eu/), where like-minded individuals come together to exchange knowledge and have a great time! At NETWAYS, we are committed to sharing our expertise and delivering exceptional services.
+NETWAYS has been simplifying open source infrastructure since 1995. Our comprehensive range of products and solutions are tailored to meet the needs of all sizes businesses and industries, covering setup, monitoring, automation, management, and hosting of open-source IT infrastructure.
+
+We organize events such as [OSMC](https://osmc.de), [OpenTechDay](https://opentechday.de/) and [stackconf](https://stackconf.eu/), where like-minded individuals come together to exchange knowledge and have a great time! At NETWAYS, we are committed to sharing our expertise and delivering exceptional services.
 
 As active contributors to the open source community, we prioritize collaboration and continuous improvement.
 
@@ -21,3 +23,5 @@ At NETWAYS we believe it is essential for you to know the people behind the scen
 Interested in joining our team? Check out our job listings and become a part of NETWAYS' unique work culture. This way to [Open Jobs](https://netways.de/en/jobs/).
 
 Do you want to know everything that moves us? Technology, hardware, life at NETWAYS, events, training and much more, read our [Blog](https://blog.netways.de/)!
+
+Make sure to also visit [NETWAYS Web Services](https://github.com/NETWAYS-Web-Services)!
